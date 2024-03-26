@@ -1,6 +1,6 @@
-### 👋 Hi there. KLK,
+### 👋 Hi there! KLK,
 
-I'm Greg. A rising Developer, creative thinker, and resilient problem solver who is always looking for new opportunities to learn more about the world.
+I'm Greg, a rising developer, creative thinker, and resilient problem solver who is always looking for new opportunities to learn more about the world.
 
 - 🔭 I’m currently working on completing [heWitUs](https://hewitus.com/), a basketball league/tournament/team management app built using the MERN stack.
 - ⚡ Fun fact: When I'm not coding, I can likely be found either at a local basketball court shooting hoops, at a rehearsal studio playing guitar, or in a living room somewhere spinning vinyl.
